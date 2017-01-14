@@ -1,0 +1,7 @@
+
+How can you use the commands git log and git diff to view the history of
+files?
+
+  Using `git log`, I can find IDs for each commits. Using `git diff`, I can
+  inspect which part of each files in each commit has changed.
+

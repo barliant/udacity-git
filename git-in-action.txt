@@ -1,0 +1,4 @@
+git clone https://github.com/udacity/asteroids.git udacity-asteroids
+
+git config --global color.ui.auto
+
