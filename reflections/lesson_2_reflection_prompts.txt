@@ -20,6 +20,10 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+  Branches will help when I think of new features those are not part of
+  official version of development. This way, the master branch can be used
+  as usual without being disturbed by new experimental features.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
