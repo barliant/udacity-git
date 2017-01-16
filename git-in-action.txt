@@ -1,4 +1,8 @@
 git clone https://github.com/udacity/asteroids.git udacity-asteroids
 
 git config --global color.ui.auto
-
+git config --global core.editor "'C:/Program Files/Sublime Text 2/sublime_text.exe' -n -w"
+git config --global core.editor "/usr/bin/subl -n -w"
+git config --global core.editor "/usr/bin/vim -n -w"
+git config --global push.default upstream
+git config --global merge.conflictstyle diff3
