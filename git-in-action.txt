@@ -6,3 +6,8 @@ git config --global core.editor "/usr/bin/subl -n -w"
 git config --global core.editor "/usr/bin/vim -n -w"
 git config --global push.default upstream
 git config --global merge.conflictstyle diff3
+
+# Lesson 3
+git config --global credential.helper cache
+git config --global credential.helper 'cache --timeout=3607'
+## Set the cache to timeout after 1 hour (settings is in seconds)
